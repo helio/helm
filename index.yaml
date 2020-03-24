@@ -3,9 +3,9 @@ entries:
   cluster-autoscaler:
   - apiVersion: v1
     appVersion: 1.17.1
-    created: "2020-03-24T17:08:17.391869+01:00"
+    created: "2020-03-24T17:11:26.533026+01:00"
     description: Scales worker nodes within autoscaling groups.
-    digest: b25911578de092e66aadb9ce97439895ef6ef73fd546162193f80b5891260910
+    digest: fed566020db88f336f05d24e2c0d94c2834b670e32d50deddbae13eb7da6ef68
     home: https://github.com/kubernetes/autoscaler
     icon: https://github.com/kubernetes/kubernetes/blob/master/logo/logo.png
     maintainers:
@@ -20,4 +20,4 @@ entries:
     urls:
     - https://helio.github.io/helm/cluster-autoscaler-7.1.0-helio.tgz
     version: 7.1.0-helio
-generated: "2020-03-24T17:08:17.388896+01:00"
+generated: "2020-03-24T17:11:26.530725+01:00"
